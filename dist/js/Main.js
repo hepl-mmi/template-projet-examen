@@ -15,7 +15,7 @@
   \************************/
 /***/ (() => {
 
-eval("//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zcmMvdHMvTWFpbi50cy5qcyIsIm1hcHBpbmdzIjoiIiwibmFtZXMiOltdLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6W10sInNvdXJjZXNDb250ZW50IjpbIiJdfQ==\n//# sourceURL=webpack-internal:///./src/ts/Main.ts\n");
+eval("//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJtYXBwaW5ncyI6IiIsIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOltdLCJzb3VyY2VzQ29udGVudCI6WyIiXSwiZmlsZSI6Ii4vc3JjL3RzL01haW4udHMuanMifQ==\n//# sourceURL=webpack-internal:///./src/ts/Main.ts\n");
 
 /***/ }),
 
@@ -116,7 +116,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extr
 /******/ 		// undefined = chunk not loaded, null = chunk preloaded/prefetched
 /******/ 		// [resolve, reject, Promise] = chunk loading, 0 = chunk loaded
 /******/ 		var installedChunks = {
-/******/ 			"/js/Main": 0,
+/******/ 			"/js/main": 0,
 /******/ 			"css/main": 0
 /******/ 		};
 /******/ 		
