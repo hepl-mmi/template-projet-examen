@@ -1,14 +1,3 @@
-# template-projet-examen
+# Le nom du jeu
 
-> A JS exercise use at HEPL for MMI.
-
-* * *
-
-**template-projet-examen** is an educational project, which will be used for `JS` courses.
-
-**Note:** the school where the course is given, the [HEPL](https://hepl.be) from Liège, Belgium, is a French-speaking school. From this point, the instruction will be in French. Sorry.
-
-* * *
-
-
-
+> Placez ici la documentation de votre jeu tel que renseigné dans l'énoncé.
